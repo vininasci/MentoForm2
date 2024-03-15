@@ -18,7 +18,7 @@ Projeto(desafio)exclusivo e gratuito, promovido pela Rocketseat para ensino de t
 <br>
 
 <p align="center">
-  <img alt="MentorshipForm" src="https://i.imgur.com/RU3PfXi.png" width="100%">
+  <img alt="MentorshipForm" src="https://i.imgur.com/kGHQQ8u.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
